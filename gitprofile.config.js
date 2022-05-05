@@ -86,8 +86,7 @@ const config = {
     themes: [
       'cupcake',
       'bumblebee',
-      'emerald',
-      
+      'emerald'
     ],
 
     // Custom theme
