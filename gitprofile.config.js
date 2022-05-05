@@ -57,34 +57,37 @@ const config = {
       to: 'December 2020',
     }
   ],
-  // Display blog posts from your medium or dev account. (Optional)
-  blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn',
-    limit: 3, // How many posts to display. Max is 10.
-  },
-  googleAnalytics: {
-    // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-    id: 'G-WLLB5E14M6', // Please remove this and use your own tag id or keep it empty
-  },
-  hotjar: {
-    id: '2617601', //  Please remove this and use your own id or keep it empty
-    snippetVersion: 6,
-  },
-  themeConfig: {
-    defaultTheme: 'corporate',
+//   // Display blog posts from your medium or dev account. (Optional)
+//   blog: {
+//     source: 'dev', // medium | dev
+//     username: 'arifszn',
+//     limit: 3, // How many posts to display. Max is 10.
+//   },
+//   googleAnalytics: {
+//     // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
+//     id: 'G-WLLB5E14M6', // Please remove this and use your own tag id or keep it empty
+//   },
+//   hotjar: {
+//     id: '2617601', //  Please remove this and use your own id or keep it empty
+//     snippetVersion: 6,
+//   },
+//   themeConfig: {
+//     defaultTheme: 'corporate',
 
-    // Hides the switch in the navbar
-    // Useful if you want to support a single color mode
-    disableSwitch: false,
+//     // Hides the switch in the navbar
+//     // Useful if you want to support a single color mode
+//     disableSwitch: false,
 
-    // Should use the prefers-color-scheme media-query,
-    // using user system preferences, instead of the hardcoded defaultTheme
-    respectPrefersColorScheme: false,
+//     // Should use the prefers-color-scheme media-query,
+//     // using user system preferences, instead of the hardcoded defaultTheme
+//     respectPrefersColorScheme: false,
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'Emerald'
+      'cupcake',
+      'bumblebee',
+      'emerald',
+      
     ],
 
     // Custom theme
