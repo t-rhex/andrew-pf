@@ -71,20 +71,49 @@ const config = {
 //     id: '2617601', //  Please remove this and use your own id or keep it empty
 //     snippetVersion: 6,
 //   },
-   themeConfig: {
-     defaultTheme: 'garden',
+ themeConfig: {
+    defaultTheme: 'garden',
 
-//     // Hides the switch in the navbar
-//     // Useful if you want to support a single color mode
+    // Hides the switch in the navbar
+    // Useful if you want to support a single color mode
     disableSwitch: true,
 
-//     // Should use the prefers-color-scheme media-query,
-//     // using user system preferences, instead of the hardcoded defaultTheme
-//     respectPrefersColorScheme: false,
+    // Should use the prefers-color-scheme media-query,
+    // using user system preferences, instead of the hardcoded defaultTheme
+    respectPrefersColorScheme: false,
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-   
+//       'light',
+//       'dark',
+//       'cupcake',
+//       'bumblebee',
+//       'emerald',
+//       'corporate',
+//       'synthwave',
+//       'retro',
+//       'cyberpunk',
+//       'valentine',
+//       'halloween',
+      'garden'
+//       'forest',
+//       'aqua',
+//       'lofi',
+//       'pastel',
+//       'fantasy',
+//       'wireframe',
+//       'black',
+//       'luxury',
+//       'dracula',
+//       'cmyk',
+//       'autumn',
+//       'business',
+//       'acid',
+//       'lemonade',
+//       'night',
+//       'coffee',
+//       'winter',
+//       'procyon',
     ],
 
     // Custom theme
