@@ -71,7 +71,7 @@ const config = {
 //     id: '2617601', //  Please remove this and use your own id or keep it empty
 //     snippetVersion: 6,
 //   },
-//   themeConfig: {
+   themeConfig: {
      defaultTheme: 'emerald',
 
 //     // Hides the switch in the navbar
