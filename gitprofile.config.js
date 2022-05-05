@@ -95,7 +95,7 @@ const config = {
       'cyberpunk',
       'valentine',
       'halloween',
-      'garden'
+      'garden',
       'forest',
       'aqua',
       'lofi',
