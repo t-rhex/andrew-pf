@@ -36,7 +36,15 @@ const config = {
     'Jenkins',
     'ElasticSearch',
     'IBM Websphere and MQ',
-    'Kafka'
+    'Kafka',
+    'API',
+    'MariaDB',
+    'Apigee',
+    'Postman and SoapUI',
+    'Urban Code Deployment',
+    'Pivotal Cloud Foundry',
+    'Helios',
+    'Nexus CodeScan'
 //     'Antd',
 //     'Tailwind',
 //     'Bootstrap',
@@ -58,8 +66,7 @@ const config = {
   education: [
     {
       institution: 'St. Cloud State University',
-      degree: 'Bachelor of Science in CyberSecurity',
-      gpa: '3.50',
+      degree: 'Bachelor of Science in CyberSecurity, GPA 3.50',
       from: 'August 2016',
       to: 'December 2020',
     }
