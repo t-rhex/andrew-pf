@@ -47,12 +47,19 @@ const config = {
       position: 'Production Support Engineer / Application Analyst',
       from: 'June 2021',
       to: 'Present',
-    } 
+    },
+    {
+      company: 'Promise Neighborhood',
+      position: 'DevOps Engineer Intern',
+      from: 'May 2020',
+      to: 'August 2020',
+    }
   ],
   education: [
     {
       institution: 'St. Cloud State University',
       degree: 'Bachelor of Science in CyberSecurity',
+      gpa: '3.50',
       from: 'August 2016',
       to: 'December 2020',
     }
