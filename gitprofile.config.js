@@ -18,12 +18,14 @@ const config = {
     behance: '',
     medium: '',
     dev: '',
-    website: 'https://t-rhex.github.io',
-    phone: '',
-    email: 'aadhikari2006@gmail.com',
+    website: 'www.andrewadhikari.com',
+    phone: '612-382-xxxx',
+    email: 'hello@andrewadhikari.com',
   },
   skills: [
     'Troubleshooting and Triaging',
+    'Perl',
+    'Electric Flow',
     'Failure identification',
     'Lead Primary Support',
     'Ansible',
@@ -51,10 +53,16 @@ const config = {
   ],
   experiences: [
     {
+      company: 'Veritas Technologies LLC',
+      position: 'Software Engineer',
+      from: 'June 2022',
+      to: 'Present',
+    },
+    {
       company: 'RBC Wealth Management',
       position: 'Production Support Engineer / Application Analyst',
       from: 'June 2021',
-      to: 'Present',
+      to: 'June 2022',
     },
     {
       company: 'Promise Neighborhood',
